@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Doing Utility Functions adjusting for sub-optimal decisioning
 @author: PWS5
@@ -129,4 +129,5 @@ plt.xlabel("Outcome (x)")
 plt.ylabel("Value v(x)")
 plt.grid(True)
 plt.show()
+
 
