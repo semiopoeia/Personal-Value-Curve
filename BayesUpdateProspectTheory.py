@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 17 19:06:14 2025
-
-@author: PWS5
-"""
-
-# -*- coding: utf-8 -*-
 """
 Doing Utility Functions adjusting for sub-optimal decisioning
 @author: PWS5
@@ -182,4 +174,5 @@ plt.ylabel("Value v(x)")
 plt.legend()
 plt.grid(True)
 plt.show()
+
 
